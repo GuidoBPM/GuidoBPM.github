@@ -1,0 +1,11 @@
+commit 5ab6625b94666452ab171a4eaebcb91fa09f6506
+Author: Guido <guidoperezmontilla@gmail.com>
+Date:   Fri Feb 17 16:24:25 2017 -0300
+
+    Cambielogo de pm
+
+commit 23a3a101ac485b4c6a5d7b4b27a04e5567f25277
+Author: Guido <guidoperezmontilla@gmail.com>
+Date:   Fri Feb 17 16:18:31 2017 -0300
+
+    Agregamos todas las carpetas del proyecto
